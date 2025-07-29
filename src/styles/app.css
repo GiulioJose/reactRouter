@@ -1,0 +1,19 @@
+body {
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.nav {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: black;
+}
+
+.nav.active {
+  font-weight: bold;
+  color: royalblue;
+}
+
